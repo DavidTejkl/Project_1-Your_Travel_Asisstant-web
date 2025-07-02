@@ -19,8 +19,7 @@ GitHub Pages – for project hosting.
 
  ** Project Structure ** 
  
-text
-/
+
 ├── index.html
 ├── css/
 │   └── style.css
@@ -102,8 +101,8 @@ Media Queries – pro zajištění responzivity napříč zařízeními.
 GitHub Pages – pro hostování projektu.
 
  ** Struktura projektu **
-text
-/
+
+
 ├── index.html
 ├── css/
 │   └── style.css
