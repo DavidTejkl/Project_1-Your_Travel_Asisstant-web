@@ -29,7 +29,9 @@ text
 ├── img/
 │   └── [images used on the site]
 └── README.md
-Main Features and Implementation
+
+ ** Main Features and Implementation **
+ 
 Responsive Design:
 The site is fully responsive thanks to a combination of CSS Grid and Flexbox layouts. Media queries ensure optimized display for mobile, tablet, and desktop devices.
 
