@@ -146,6 +146,7 @@ Přístupnost:
 Dodržování zásad přístupnosti (WCAG), včetně použití sémantických prvků, alt textů a dostatečného kontrastu.
 
  ** Instalace a spuštění **
+ 
 Naklonujte repozitář:
 
 bash
